@@ -22,9 +22,9 @@ I'm a Computer Science student who is very interested in **back-end development*
 ### Agrimart/AngkatAni
 An online platform where farmers can sell their goods directly to customers, bypassing the middlemen to ensure access to agricultural products.
 
-**Role:** Back-end Developer
+**Position:** Back-end Developer
 
-**Position:** Developed the server-side logic and managed the MySQL database hosted on Aiven
+**Role:** Developed the server-side logic and managed the MySQL database hosted on Aiven
 
 **Technologies:** Python, MySQL
 
