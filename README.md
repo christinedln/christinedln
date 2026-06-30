@@ -23,7 +23,9 @@ I'm a Computer Science student who is very interested in **back-end development*
 An online platform where farmers can sell their goods directly to customers, bypassing the middlemen to ensure access to agricultural products.
 
 **Role:** Back-end Developer
+
 **Position:** Developed the server-side logic and managed the MySQL database hosted on Aiven
+
 **Technologies:** Python, MySQL
 
 ---
@@ -32,7 +34,9 @@ An online platform where farmers can sell their goods directly to customers, byp
 A task reminder application where reminders are sent depending on the location of the user.
 
 **Position:** Back-end Developer
+
 **Role:** Developed the back-end and managed the Firebase database.
+
 **Technologies:** Java, Firebase
 
 ---
@@ -41,7 +45,9 @@ A task reminder application where reminders are sent depending on the location o
 A digital marketplace that allows both buyers and sellers to engage in the exchange of clothing and accessories from local fashion brands.
 
 **Position:** Back-end Developer
+
 **Role:** Developed the back-end and managed the MySQL database using XAMPP and phpMyAdmin
+
 **Technologies:** Python, SQL
 
 ---
@@ -50,7 +56,9 @@ A digital marketplace that allows both buyers and sellers to engage in the excha
 A secure, IoT-based energy monitoring system designed to measure and analyze real-time electrical consumption.
  
 **Position:** Back-end Developer
+
 **Role:** Developed the backeend and managed the Firebase database
+
 **Technologies:** JavaScript, Firebase
 
 ---
