@@ -65,7 +65,7 @@ A secure, IoT-based energy monitoring system designed to measure and analyze rea
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/christinedeleon-c13
+- [LinkedIn](https://www.linkedin.com/in/christinedeleon-c13)
 - Email: deleonchristinejoyce1@gmail.com
 
 ---
